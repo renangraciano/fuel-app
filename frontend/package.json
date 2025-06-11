@@ -1,0 +1,22 @@
+{
+  "name": "fuel-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.11.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0-alpha.29",
+    "@vitejs/plugin-react": "^4.3.3",
+    "tailwindcss": "^4.0.0-alpha.29",
+    "vite": "^5.4.8"
+  }
+}
